@@ -1,9 +1,9 @@
 ---
 layout: resume
-title: Brigham Young's Resume
+title: M.J. Ryu
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# PROFESSIONAL SUMMARY
+A strategic and results-driven Business Analyst who provides employers with valuable and actionable data to drive profitable growth. Practiced at filtering information to find critical metrics and revelatory data. Equipped with excellent communication skills, work ethic, and a strong sense of leadership with a commendable record of accomplishments.
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -15,36 +15,35 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2017-2022`
+__Brigham Young University-Idaho__, Rexburg, UT
 
-- Full academic scholarship with 4.0 GPA
+- Bachelor of Science, Business Analytics
+- 3.514 GPA
 
-`Expected 2029`
+
+
+## Work Experience
+
+### User Experience Specialist
+`Jun 2022 - Current`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Analyzed, evaluated, monitored, and identifying trends, gaps, successes, and opportunities.
+- Followed and developed established customer experience testing models and best practices.
+- Collaborated and coordinated with leadership, clients, and customers.
+- Presented reports, findings, and plans.
 
+### Real Estate Analyst / Inspector
 
-## Related Experience
+`Mar 2021 - Dec 2021`
+__Hwang Real Estate__, South Korea
 
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Created the analysis of historical, current, and future income and expenses of properties and related
+businesses.
+- Collected and organized properties’ demand factors: environmental inspections, property inspections, seismic reports, etc.
+- Completed the creation, sourcing, and review of real estate documents (leases, loan documents, etc.)
+-Structured, and executed current and potential real estate debt.
 
 `September 2027 - April 2028`
 __Good2Go__, Consultant
