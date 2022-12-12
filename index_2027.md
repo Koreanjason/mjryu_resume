@@ -45,38 +45,34 @@ businesses.
 - Completed the creation, sourcing, and review of real estate documents (leases, loan documents, etc.)
 -Structured, and executed current and potential real estate debt.
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+### Cyberspace Intelligence Analyst
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+`September 2019 - April 2021`
+__Armed Forces Korea__, South Korea
 
-### Data Science Consulting Team
+- Prepared and assisted in presenting current defensive systems and operating missions to senior leadership and a Lieutenant General.
+- Analyzed data to effectively provide predictive analysis on insurgent operations and vulnerabilities.
+- Excelled in high demanding and fast paced environments leading to supervisory roles to lead squad
+members. 
+- Excellent leadership, organizational, oral, and written communication skills in English and Korean with
+attention to detail.
 
-`January 2027 - April 2027`
-__Imagine Learning__
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+### General Manager
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+`June 2016 - December 2016`
+__Silverbell Nursing Home__, South Korea
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Monitored clients’ personal health and tracked physical progression.
+- Managed the facility, equipment, patient rooms and maintenance.
+- Managed supplies and inventory: restocking and purchasing to ensure supplies availability.
+- Conducted group meetings and discussed future plans with different workers.
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
+`2018-2018`
+__I-Rep__, Rexburg, Idaho
 
 
 
