@@ -6,8 +6,7 @@ title: M.J. Ryu
 A strategic and results-driven Business Analyst who provides employers with valuable and actionable data to drive profitable growth. Practiced at filtering information to find critical metrics and revelatory data. Equipped with excellent communication skills, work ethic, and a strong sense of leadership with a commendable record of accomplishments.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="ryumyeongjae@gmail.com">datascience@byui.edu</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
